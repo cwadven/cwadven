@@ -7,7 +7,7 @@
 <code><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
 
-![cwadven's github stats](https://github-readme-stats.vercel.app/api?username=cwadven&show_icons=true&count_private=true)
+![cwadven's github stats](https://github-readme-stats.vercel.app/api?username=cwadven&show_icons=true&count_private=true&theme=buefy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwadven&layout=compact&hide_border=true)
 
