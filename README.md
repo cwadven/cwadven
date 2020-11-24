@@ -5,6 +5,7 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://cwadven.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
 **Languages and Tools**  
 
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
