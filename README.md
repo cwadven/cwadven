@@ -25,12 +25,12 @@
 
 ### WHAT & HOW I STUDIED
 
-- [MACHINE LEARING](https://github.com/cwadven/Machine_Learning "MACHINE LEARING")
-- [PYTHON](https://github.com/cwadven/python_study "PYTHON")
-- [Javascript ES6](https://github.com/cwadven/JavaScript_ES6 "Javascript ES6")
-- [OpenCV_Python](https://github.com/cwadven/2019_opencv_study "OpenCV_Python")
-- [Linux_Study_ver1](https://github.com/cwadven/Linux_study_ver2 "Linux Study_ver1")
-- [Linux_Study_ver2](https://github.com/cwadven/Linux_study "Linux Study_ver2")
+- [MACHINE LEARING](https://github.com/cwadven/Machine_Learning "MACHINE LEARING") (Studying⏳)
+- [PYTHON](https://github.com/cwadven/python_study "PYTHON") (DONE💯)
+- [Javascript ES6](https://github.com/cwadven/JavaScript_ES6 "Javascript ES6") (Studying⏳)
+- [OpenCV_Python](https://github.com/cwadven/2019_opencv_study "OpenCV_Python") (DONE💯)
+- [Linux_Study_ver1](https://github.com/cwadven/Linux_study_ver2 "Linux Study_ver1") (DONE💯)
+- [Linux_Study_ver2](https://github.com/cwadven/Linux_study "Linux Study_ver2") (DONE💯)
 
 <!--
 **cwadven/cwadven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
