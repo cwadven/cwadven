@@ -6,10 +6,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- 🔭 I’m currently working on ALGORITHM
-- 🌱 I’m currently learning MACHINE LEARNING
-- 👯 I’m looking to collaborate on BE, FE PROJECT
-- 🤔 I’m looking for help with MACHINE LEARNING & REACT & JS
+- 🔭 I’m currently working on **ALGORITHM**
+- 🌱 I’m currently learning **MACHINE LEARNING**
+- 👯 I’m looking to collaborate on **BE, FE PROJECT**
+- 🤔 I’m looking for help with **MACHINE LEARNING & REACT & JS**
 - 💬 Ask me about DRF?
 - 📫 How to reach me: **KAKAO :** cwadvan, **EMAIL :** cwadven@naver.com
 
@@ -26,8 +26,8 @@
 ### WHAT & HOW I STUDIED
 
 - [MACHINE LEARING](https://github.com/cwadven/Machine_Learning "MACHINE LEARING") (Studying⏳)
-- [PYTHON](https://github.com/cwadven/python_study "PYTHON") (DONE💯)
 - [Javascript ES6](https://github.com/cwadven/JavaScript_ES6 "Javascript ES6") (Studying⏳)
+- [PYTHON](https://github.com/cwadven/python_study "PYTHON") (DONE💯)
 - [OpenCV_Python](https://github.com/cwadven/2019_opencv_study "OpenCV_Python") (DONE💯)
 - [Linux_Study_ver1](https://github.com/cwadven/Linux_study_ver2 "Linux Study_ver1") (DONE💯)
 - [Linux_Study_ver2](https://github.com/cwadven/Linux_study "Linux Study_ver2") (DONE💯)
