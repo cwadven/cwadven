@@ -6,6 +6,13 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+- 🔭 I’m currently working on ALGORITHM
+- 🌱 I’m currently learning MACHINE LEARNING
+- 👯 I’m looking to collaborate on BE, FE PROJECT
+- 🤔 I’m looking for help with MACHINE LEARNING & REACT & JS
+- 💬 Ask me about DRF?
+- 📫 How to reach me: KAKAO cwadvan, EMAIL cwadven@naver.com
+
 **Languages and Tools**  
 
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
@@ -16,17 +23,24 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwadven&layout=compact&hide_border=true)
 
+### WHAT & HOW I STUDIED
+
+[MACHINE LEARING](https://github.com/cwadven/Machine_Learning "MACHINE LEARING")
+[PYTHON](https://github.com/cwadven/python_study "PYTHON")
+[Javascript ES6](https://github.com/cwadven/JavaScript_ES6 "Javascript ES6")
+[OpenCV_Python](https://github.com/cwadven/2019_opencv_study "OpenCV_Python")
+[Linux_Study_ver1](https://github.com/cwadven/Linux_study_ver2 "Linux Study_ver1")
+[Linux_Study_ver2](https://github.com/cwadven/Linux_study "Linux Study_ver2")
+
 <!--
 **cwadven/cwadven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ALGORITHM
+- 🌱 I’m currently learning MACHINE LEARNING
+- 👯 I’m looking to collaborate on BE, FE PROJECT
+- 🤔 I’m looking for help with MACHINE LEARNING & REACT & JS
+- 💬 Ask me about DRF?
+- 📫 How to reach me: KAKAO cwadvan, EMAIL cwadven@naver.com
 -->
