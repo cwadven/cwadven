@@ -26,6 +26,7 @@
 ### WHAT & HOW I STUDIED
 
 - [MACHINE LEARING](https://github.com/cwadven/Machine_Learning "MACHINE LEARING") (Studying⏳)
+- [React](https://github.com/cwadven/react_study "React") (Studying⏳)
 
 - [Simple Javascript ES6](https://github.com/cwadven/JavaScript_ES6 "Simple Javascript ES6") (DONE💯)
 - [Python](https://github.com/cwadven/python_study "Python") (DONE💯)
