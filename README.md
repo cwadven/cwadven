@@ -6,10 +6,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- 🔭 I’m currently working on **ALGORITHM**
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🔭 I’m currently working on **REACT & DRF**
+- 🌱 I’m currently learning **REACT**
 - 👯 I’m looking to collaborate on **BE, FE PROJECT**
-- 🤔 I’m looking for help with **MACHINE LEARNING & REACT & JS**
+- 🤔 I’m looking for help with **REACT & JS**
 - 💬 Ask me about DRF?
 - 📫 How to reach me: **KAKAO :** cwadvan, **EMAIL :** cwadven@naver.com
 
