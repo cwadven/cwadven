@@ -23,17 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwadven&layout=compact&hide_border=true)
 
-### WHAT & HOW I STUDIED
-
-- [MACHINE LEARING](https://github.com/cwadven/Machine_Learning "MACHINE LEARING") (Studying⏳)
-- [React](https://github.com/cwadven/react_study "React") (Studying⏳)
-
-- [Simple Javascript ES6](https://github.com/cwadven/JavaScript_ES6 "Simple Javascript ES6") (DONE💯)
-- [Python](https://github.com/cwadven/python_study "Python") (DONE💯)
-- [OpenCV_Python](https://github.com/cwadven/2019_opencv_study "OpenCV_Python") (DONE💯)
-- [Linux_Study_ver1](https://github.com/cwadven/Linux_study_ver2 "Linux Study_ver1") (DONE💯)
-- [Linux_Study_ver2](https://github.com/cwadven/Linux_study "Linux Study_ver2") (DONE💯)
-
 <!--
 **cwadven/cwadven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
