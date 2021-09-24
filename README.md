@@ -5,7 +5,7 @@
         src="http://img.shields.io/badge/-Algorithm%20Blog-655ced?style=flat&logo=github&link=https://cwadven.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://dalgona.shop/">
+<a href="https://nulls.co.kr/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-092E20?style=flat&logo=django&link=https://nulls.co.kr/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
