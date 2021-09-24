@@ -7,7 +7,7 @@
 </a>
 <a href="https://dalgona.shop/">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-092E20?style=flat&logo=django&link=https://dalgona.shop/"
+        src="http://img.shields.io/badge/-Tech%20Blog-092E20?style=flat&logo=django&link=https://nulls.co.kr/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
