@@ -11,11 +11,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- 🔭 I’m currently working on **REACT & DRF**
-- 🌱 I’m currently learning **REACT**
+- 🔭 I’m currently working on **Django/DRF/Python/Backend**
+- 🌱 I’m currently learning **Backend**
 - 👯 I’m looking to collaborate on **BE, FE PROJECT**
 - 🤔 I’m looking for help with **REACT & JS**
-- 💬 Ask me about DRF?
 - 📫 How to reach me: **KAKAO :** cwadvan, **EMAIL :** cwadven@naver.com
 
 **Languages and Tools**  
